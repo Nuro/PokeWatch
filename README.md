@@ -7,12 +7,12 @@ Other known bots running Pokewatch: https://twitter.com/BhamPokeWatch/lists/poke
 
 Subreddit: https://reddit.com/r/pokewatch
 
-DOWNLOAD: https://db.tt/wNDXXmgr
+DOWNLOAD: Compile Yourself but if you really need a Binary (https://mega.nz/#!AEgkgYJC)
 
 ##Set Up Instructions
 1. GETTING THE FILES:
 
-	a. Download and Pokewatch.zip and extract files (https://db.tt/wNDXXmgr).
+	a. Download and Pokewatch.zip and extract files (https://mega.nz/#!AEgkgYJC).
 	
 	b. Alternatively, clone and build the repo.
 	
